@@ -61,9 +61,6 @@ This script will extract text from the PDF, preprocess it, create a document-ter
 
 The `results.txt` file will contain the output from the LSA and LDA models. Additionally, word clouds will be displayed for the topics identified by the LDA model.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
